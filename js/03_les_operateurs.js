@@ -25,7 +25,7 @@ console.log(resultat);
 resultat = nb1*nb2;
 console.log(resultat);
 
-// Le modulo correspondau reste de la division
+// Le modulo correspond au reste de la division
 // Le modulo de nb1 & nb2 avec l'opérateur "%"
 
 resultat = nb1 % nb2;
@@ -59,7 +59,7 @@ console.log(resultat);
     console.log(nb1);
 
     // Je peux proceder de la même maniére pour tous les autres opérateurs arithématiques:
-    "+", "-", "*", "/" , "%".
+    "+", "-", "*", "/" , "%"
     
 
  
